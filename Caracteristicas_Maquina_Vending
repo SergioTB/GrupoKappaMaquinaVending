@@ -16,4 +16,7 @@ detectadas y clasificadas gracias a unos sensores que detectan el peso y diámet
 será posible incluir un billetero para billetes pequeños de 5€ o 10€. Por último, adjuntaremos un sistema 
 que dará cambio en diferentes combinaciones de monedas, previamente programable.
 
-Incluirá un Pad electrónico para ver la selección introducida por teclado, la cantidad de dinero introducido y cualquier mensaje de error o avería que nos envie la máquina. Iluminación LED en el interior de la máquina para darle un ambiente más cálido y para poder ver mejor los productos en el interior.
+Incluirá un Pad electrónico para ver la selección introducida por teclado, la cantidad de dinero 
+introducido y cualquier mensaje de error o avería que nos envie la máquina. Iluminación LED en el 
+interior de la máquina para darle un ambiente más cálido y para poder ver mejor los productos en el 
+interior.
