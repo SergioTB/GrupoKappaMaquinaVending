@@ -1,0 +1,7 @@
+La máquina tendrá 5 o 6 bandejas regulables en altura, variando el número de secciones en cada
+bandeja según el producto que queramos vender. Funcionará con un mecanismo de pinza,
+regulable, permitiendonos en un mismo compartimento poner productos de diferentes tamaños, la
+transición del producto se hace mediante una cinta transportadora. Además, poseerá un sistema
+que evitará que el producto se quede atascado, ya que lo empuja desde la parte trasera de la
+cinta hasta el frente. La máquina detecta si el producto ha caído o no, si no cae le da la opción al
+cliente de pedir otro producto o recuperar el dinero.
