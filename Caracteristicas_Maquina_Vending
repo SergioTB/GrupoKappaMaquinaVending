@@ -26,3 +26,14 @@ más cálido y para poder ver mejor los productos en el interior.
 La máquina utilizará un sistema refrigeración con sensores que sean capaces de captar la temperatura ambiente y dentro de 
 la misma de tal manera que se regula a la temperatura ideal previamente programada o configurada, adicionalmente incluiremos 
 un sistema de antelación de temperaturas para mejorar la eficiencia. 
+
+El técnico llevará una PDA, Smartphone o Tablet con la cual podrá mediante conexión USB 3.1 Type-C modificar los 
+precios de la máquina, actualizar con el nuevo inventario después de la recarga de productos, etc. Por otro lado, 
+con una tarjeta SIM que tendrá integrada se realizará conexión mediante 3G/4G y así el operador podrá obtener 
+información actualizada, en el momento de la petición, sobre el inventario de la máquina para saber que productos 
+deberá llevar para recargarla. 
+
+Gracias a la comunicación 3G/4G cuando suceda algún fallo en la máquina tal como obstrucción del producto, esta 
+enviará una orden de revisión a la central para que en el menor tiempo posible acuda un técnico a revisarla. De 
+igual manera la máquina contactará con la central para avisar de que uno de sus productos se ha agotado.
+
