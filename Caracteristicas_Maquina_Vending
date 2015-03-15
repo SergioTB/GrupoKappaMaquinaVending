@@ -1,31 +1,31 @@
 Características:
 
-Nuestra máquina vending estará enfocada a la venta productos alimenticios como ‘snacks’, bebidas, bollería y bocatas 
-o sandwiches envasados. Para almacenarlos tendrá 5 o 6 bandejas regulables en altura, variando el número de secciones 
-en cada bandeja según el producto que queramos vender. Funcionará con un mecanismo de pinza, regulable, permitiendonos 
-en un mismo compartimento poner productos de diferentes tamaños, la transición del producto se hace mediante una cinta 
-transportadora. Además, poseerá un sistema que evitará que el producto se quede atascado, ya que lo empuja desde la 
-parte trasera de la cinta hasta el frente. La máquina detecta si el producto ha caído o no, si no cae le da la opción al 
-cliente de pedir otro producto o recuperar el dinero. Si el producto que pide como segunda opción es más caro saldrá por 
-pantalla un mensaje indicando que falta crédito, si en un intervalo de tiempo el cliente no introduce más dinero o cancela 
-la operación la máquina automáticamente devolverá el dinero.
+Nuestra máquina vending estará enfocada a la venta productos alimenticios como ‘snacks’, bebidas, bollería y 
+bocatas o sandwiches envasados. Para almacenarlos tendrá 5 o 6 bandejas regulables en altura, variando el número 
+de secciones en cada bandeja según el producto que queramos vender. Funcionará con un mecanismo de pinza, regulable,
+permitiendonos en un mismo compartimento poner productos de diferentes tamaños, la transición del producto se hace 
+mediante una cinta transportadora. Además, poseerá un sistema que evitará que el producto se quede atascado, ya que 
+lo empuja desde la parte trasera de la cinta hasta el frente. La máquina detecta si el producto ha caído o no, si 
+no cae le da la opción al cliente de pedir otro producto o recuperar el dinero. Si el producto que pide como segunda 
+opción es más caro saldrá por pantalla un mensaje indicando que falta crédito, si en un intervalo de tiempo el cliente 
+no introduce más dinero o cancela la operación la máquina automáticamente devolverá el dinero.
 
-La máquina tendrá un sistema para evitar manipulación de la cavidad de monedas y así prevenir la introducción de papeles, 
-líquidos o cualquier elemento que pueda taponar la entrada, así mismo como la capacidad de reconocer la moneda en 
-circulación del país en el que esté instalada, previa selección de la misma al configurar la máquina para el cliente. 
-Incluiremos un botón de recuperación de monedas, para poder recuperar lo introducido en caso de equivocación. Así mismo, 
-esta cavidad admitirá monedas de cualquier valor el cual siempre se indicará en el pad de la máquina, serán detectadas y 
-clasificadas gracias a unos sensores que detectan el peso y diámetro de la moneda. También será posible incluir un billetero
-para billetes pequeños de 5€ o 10€. Por último, adjuntaremos un sistema que dará cambio en diferentes combinaciones de 
-monedas, previamente programable.
+La máquina tendrá un sistema para evitar manipulación de la cavidad de monedas y así prevenir la introducción 
+de papeles, líquidos o cualquier elemento que pueda taponar la entrada, así mismo como la capacidad de reconocer
+la moneda en circulación del país en el que esté instalada, previa selección de la misma al configurar la máquina 
+para el cliente. Incluiremos un botón de recuperación de monedas, para poder recuperar lo introducido en caso de 
+equivocación. Así mismo, esta cavidad admitirá monedas de cualquier valor el cual siempre se indicará en el pad 
+de la máquina, serán detectadas y clasificadas gracias a unos sensores que detectan el peso y diámetro de la moneda. 
+También será posible incluir un billetero para billetes pequeños de 5€ o 10€. Por último, adjuntaremos un sistema 
+que dará cambio en diferentes combinaciones de monedas, previamente programable.
 
-Incluirá un Pad electrónico para ver la selección introducida por teclado, la cantidad de dinero introducido y cualquier 
-mensaje de error o avería que nos envie la máquina. Iluminación LED en el interior de la máquina para darle un ambiente 
-más cálido y para poder ver mejor los productos en el interior.
+Incluirá un Pad electrónico para ver la selección introducida por teclado, la cantidad de dinero introducido y 
+cualquier mensaje de error o avería que nos envie la máquina. Iluminación LED en el interior de la máquina para
+darle un ambiente más cálido y para poder ver mejor los productos en el interior.
 
-La máquina utilizará un sistema refrigeración con sensores que sean capaces de captar la temperatura ambiente y dentro de 
-la misma de tal manera que se regula a la temperatura ideal previamente programada o configurada, adicionalmente incluiremos 
-un sistema de antelación de temperaturas para mejorar la eficiencia. 
+La máquina utilizará un sistema refrigeración con sensores que sean capaces de captar la temperatura ambiente y 
+dentro de la misma de tal manera que se regula a la temperatura ideal previamente programada o configurada, 
+adicionalmente incluiremos un sistema de antelación de temperaturas para mejorar la eficiencia. 
 
 El técnico llevará una PDA, Smartphone o Tablet con la cual podrá mediante conexión USB 3.1 Type-C modificar los 
 precios de la máquina, actualizar con el nuevo inventario después de la recarga de productos, etc. Por otro lado, 
