@@ -18,10 +18,12 @@ equivocación. Así mismo, esta cavidad admitirá monedas de cualquier valor el 
 de la máquina, serán detectadas y clasificadas gracias a unos sensores que detectan el peso y diámetro de la moneda. 
 También será posible incluir un billetero para billetes pequeños de 5€ o 10€. Por último, adjuntaremos un sistema 
 que dará cambio en diferentes combinaciones de monedas, previamente programable.
+Otros metodos de pago aceptados será tarjeta de credito o tarjeta de debito, MasterCard o Visa, siendo tambien 
+aceptado el pago mediante NFC compatible tanto con SmartPhones que dispongan de esta tecnología y metodo de pago
+aceptado como las más recientes tarjetas que permiten el pago mediante esta tecnología.
 
-Incluirá un Pad electrónico para ver la selección introducida por teclado, la cantidad de dinero introducido y 
-cualquier mensaje de error o avería que nos envie la máquina. Iluminación LED en el interior de la máquina para
-darle un ambiente más cálido y para poder ver mejor los productos en el interior.
+Iluminación LED en el interior de la máquina para darle un ambiente más cálido y para poder ver mejor los productos 
+en el interior.
 
 La máquina utilizará un sistema refrigeración con sensores que sean capaces de captar la temperatura ambiente y 
 dentro de la misma de tal manera que se regula a la temperatura ideal previamente programada o configurada, 
@@ -37,3 +39,6 @@ Gracias a la comunicación 3G/4G cuando suceda algún fallo en la máquina tal c
 enviará una orden de revisión a la central para que en el menor tiempo posible acuda un técnico a revisarla. De 
 igual manera la máquina contactará con la central para avisar de que uno de sus productos se ha agotado.
 
+La máquina equipará una pantalla de 6 pulgadas de tecnología LED IPS para un bajo consumo y buenos angulos de visión,
+esta será protegida contra golpes y arañazos con Corning Gorilla Glass 4 de clase industrial, un panel protector 
+superficial muy resistente y que no dificulta la visión.
