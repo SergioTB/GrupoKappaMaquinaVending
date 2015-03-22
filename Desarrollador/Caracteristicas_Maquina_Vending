@@ -25,18 +25,22 @@ aceptado como las más recientes tarjetas que permiten el pago mediante esta tec
 Iluminación LED en el interior de la máquina para darle un ambiente más cálido y para poder ver mejor los productos 
 en el interior.
 
-La máquina utilizará un sistema refrigeración con sensores que sean capaces de captar la temperatura ambiente y 
-dentro de la misma de tal manera que se regula a la temperatura ideal previamente programada o configurada, 
+La refrigeración de la máquina será frontal, que es un estandar, ya que así permiten ser empotradas y no dejarles 
+ventilación por detrás.
+Además la máquina utilizará un sistema refrigeración con sensores que sean capaces de captar la temperatura ambiente 
+y dentro de la misma de tal manera que se regula a la temperatura ideal previamente programada o configurada, 
 adicionalmente incluiremos un sistema de antelación de temperaturas para mejorar la eficiencia. 
 
-El técnico llevará una PDA, Smartphone o Tablet con la cual podrá mediante conexión USB 3.1 Type-C modificar los 
-precios de la máquina, actualizar con el nuevo inventario después de la recarga de productos, etc. Por otro lado, 
-con una tarjeta SIM que tendrá integrada se realizará conexión mediante 3G/4G y así el operador podrá obtener 
-información actualizada, en el momento de la petición, sobre el inventario de la máquina para saber que productos 
-deberá llevar para recargarla. 
+El operador llevará una PDA, Smartphone o Tablet con la cual podrá mediante conexión USB 3.1 Type-C modificar los 
+precios de la máquina, actualizar con el nuevo inventario después de la recarga de productos, etc. La recarga de
+la máquina se realizará mediante la apertura de una puerta, que es todo el frontal, desde donde se tendrá acceso
+a todos los productos, a la conexión USB y al dinero.
+Por otro lado, con una tarjeta SIM que tendrá integrada se realizará conexión mediante 3G/4G y así el operador 
+podrá obtener información actualizada, en el momento de la petición, sobre el inventario de la máquina para saber 
+que productos deberá llevar para recargarla. 
 
 Gracias a la comunicación 3G/4G cuando suceda algún fallo en la máquina tal como obstrucción del producto, esta 
-enviará una orden de revisión a la central para que en el menor tiempo posible acuda un técnico a revisarla. De 
+enviará una orden de revisión a la central para que en el menor tiempo posible acuda un operador a revisarla. De 
 igual manera la máquina contactará con la central para avisar de que uno de sus productos se ha agotado.
 
 La máquina equipará una pantalla de 6 pulgadas de tecnología LED IPS para un bajo consumo y buenos angulos de visión,
